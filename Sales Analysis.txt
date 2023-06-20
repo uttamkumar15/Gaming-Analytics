@@ -1,0 +1,25 @@
+Sales Analysis:
+Bar chart: Displaying global sales by year for different platforms.
+Pie chart: Showing the distribution of sales across regions (NA, EU, JP, Other).
+Genre Analysis:
+Donut chart: Representing the distribution of games by genre.
+Stacked bar chart: Showing the sales performance of each genre by region.
+Publisher Analysis:
+Top publishers: Displaying a table of the top publishers based on global sales.
+Bar chart: Comparing the sales of the top publishers.
+Critic and User Ratings:
+Scatter plot: Comparing critic scores and user scores for games.
+Average ratings: Displaying the average critic and user ratings for each genre.
+Online Features and In-game Purchases:
+Pie chart: Showing the percentage of games with online features and in-game purchases.
+Viewer Engagement:
+Bar chart: Displaying the viewership (in thousands) for popular games.
+Line graph: Tracking the viewership trend over time for selected games.
+Platform Comparison:
+Bar chart: Comparing sales performance across different platforms.
+Download Size and Price Analysis:
+Scatter plot: Analyzing the relationship between download size and price.
+Rating Distribution:
+Histogram: Illustrating the distribution of game ratings.
+Additional Insights:
+Key performance indicators (KPIs) for the gaming industry, such as average sales per year, top-selling games, etc.
